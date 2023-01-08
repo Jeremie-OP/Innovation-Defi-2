@@ -1,4 +1,6 @@
 # Innovation-Defi-2
+Réalisé par: MICHALSKI Jakub et OPIGEZ Jérémie
+
 Les codes resultant du projet innovation de M2 de l'université d'Avignon
 
 Script permettant d'entrainer le modele pour obtenir les meilleurs resultats: camenBert_clean.py
